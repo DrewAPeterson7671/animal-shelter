@@ -3,7 +3,12 @@ body {
   border: 4px;
 }
 
-
+h1 {
+  text-align: center;
+  font-size:50px;
+  font-style: italic;
+  font-family: sans-serif;
+}
 
 .column {
   margin: 12px;
@@ -11,4 +16,12 @@ body {
   padding: 2px;
   float: right;
   background-color: green;
+}
+
+.friends {
+  margin: 12px;
+  padding: 2px;
+  background-color: orange;
+  border: 10px solid black;
+  float: left;
 }
