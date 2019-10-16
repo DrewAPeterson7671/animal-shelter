@@ -1,11 +1,10 @@
 body {
   background-color: #5ba397;
-  border: 4px;
 }
 
 h1 {
   text-align: center;
-  font-size:50px;
+  font-size: 50px;
   font-style: italic;
   font-family: sans-serif;
 }
