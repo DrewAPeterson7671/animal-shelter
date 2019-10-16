@@ -1,0 +1,14 @@
+body {
+  background-color: #5ba397;
+  border: 4px;
+}
+
+
+
+.column {
+  margin: 12px;
+  border: 10px solid black;
+  padding: 2px;
+  float: right;
+  background-color: green;
+}
